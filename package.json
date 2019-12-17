@@ -1,6 +1,6 @@
 {
-  "name": "fejk",
-  "version": "4.0.0",
+  "name": "@avaly/fejk",
+  "version": "5.0.0",
   "description": "A stateless mock with stateful capabilities",
   "engines": {
     "node": ">=12.5.0"
@@ -16,14 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alepek/fejk.git"
+    "url": "git+https://github.com/avaly/fejk.git"
   },
   "author": "alepek",
+  "contributors": [
+    "Valentin Agachi (http://agachi.name)"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alepek/fejk/issues"
+    "url": "https://github.com/avaly/fejk/issues"
   },
-  "homepage": "https://github.com/alepek/fejk#readme",
+  "homepage": "https://github.com/avaly/fejk#readme",
   "dependencies": {
     "cors": "2.8.5",
     "decache": "^4.1.0",

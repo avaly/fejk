@@ -1,10 +1,12 @@
 # Fejk
 
-[![Build Status](https://travis-ci.org/alepek/fejk.svg?branch=master)](https://travis-ci.org/alepek/fejk)
+[![Build Status](https://travis-ci.org/avaly/fejk.svg?branch=master)](https://travis-ci.org/avaly/fejk)
 
 Fejk is a simple stateless HTTP mocking service with a faux-stateful mocking mechanism based on cookies.
 
 Fejk is intended to be consumed by a browser-like client, but should work fine for any HTTP client. Cookie capabilities are a prerequisite for faux statefulness.
+
+> This is a fork of the original [fejk](https://github.com/alepek/fejk) which is written in ES modules and supports ES modules scenarios
 
 **ToC**
 
